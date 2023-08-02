@@ -1,0 +1,13 @@
+{
+    "chat": {
+        "make": "openai",
+        "model": "gpt-3.5-turbo-16k-0613",
+        "temperature": 0.8,
+        "max_tokens": 16000,
+        "token_proportions": {
+            "completions": 0.25,
+            "history": 0.75
+        },
+        "perogative": {"role": "system", "content": "You are a friendly AI assistant named Alfred whose mission is to serve Artie."}
+    }
+}

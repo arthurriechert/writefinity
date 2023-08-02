@@ -5,6 +5,9 @@ I made this project because I was in what my opinion seemed like performance dip
 
 This project is made with the goal of interfacing with multiple models sometime in the future, having integration with external APIs to automate my workflow, and improving the chat experience. In other words, this is a project that I plan on building as I get new needs. Feel free to build it on it and implement your own uses!
 
+## Notes
+Web browsing is a WIP for now.
+
 ## Install Instructions
 1. cd src/.streamlit
 2. touch secrets.toml and open in an editor
